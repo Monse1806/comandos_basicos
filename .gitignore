@@ -3,3 +3,10 @@
 *.log
 *.bak
 indicaciones.info
+dist/
+build/
+.out/
+.next/
+.nuxt/
+.vite/
+node_modules/
